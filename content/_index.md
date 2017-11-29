@@ -1,4 +1,7 @@
 +++
-pageTagLine = "Luke, I'm your father!"
 image = "/images/dartvaider.jpg"
+pageTagLine = "Luke, I'm your father! FOR SURE!!!"
+title = ""
+type = "page"
+
 +++
